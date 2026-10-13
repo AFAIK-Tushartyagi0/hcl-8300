@@ -58,7 +58,8 @@ class Engineer extends Employee{
     }
 }
 
-class Accountant extends Employee{
+class
+Accountant extends Employee{
     public Accountant(int empId, String name, double basic, double hra) {
         super(empId, name, basic, hra);
     }
